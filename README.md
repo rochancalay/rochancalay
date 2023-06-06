@@ -1,4 +1,12 @@
 ### Hi there 👋
+I’m Romina 
+from Argentina
+
+🌱 I’m accountant and I’m recently learning wev development.
+
+👩‍💻 I’m currently working on my portfolio and my first project. 
+
+
 
 <!--
 **rochancalay/rochancalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
