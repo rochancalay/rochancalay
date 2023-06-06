@@ -2,7 +2,7 @@
 I’m Romina 
 from Argentina
 
-🌱 I’m accountant and I’m recently learning wev development.
+🌱 I’m accountant and I’m recently learning web development.
 
 👩‍💻 I’m currently working on my portfolio and my first project. 
 
